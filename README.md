@@ -83,15 +83,15 @@ The following screenshots show the results of testing the Emotion Detector with 
 
 ### Test Case 1
 
-![Emotion Detection Test 1](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot5.png) 
+![Emotion Detection Test 1](final_project/testing_screenshots/Screenshot5.png) 
 
 ### Test Case 2
 
-![Emotion Detection Test 2](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot6.png)
+![Emotion Detection Test 2](final_project/testing_screenshots/Screenshot6.png)
 
 ### Test Case 3
 
-![Emotion Detection Test 3](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot4.png)
+![Emotion Detection Test 3](final_project/testing_screenshots/Screenshot4.png)
 
 ### Test Case 4
 
@@ -99,11 +99,11 @@ The following screenshots show the results of testing the Emotion Detector with 
 
 ### Test Case 5
 
-![Emotion Detection Test 5](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot3.png)
+![Emotion Detection Test 5](final_project/testing_screenshots/Screenshot3.png)
 
 ### Test Case 6
 
-![Emotion Detection Test 6](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot2.png)
+![Emotion Detection Test 6](final_project/testing_screenshots/Screenshot2.png)
 
 ---
 
