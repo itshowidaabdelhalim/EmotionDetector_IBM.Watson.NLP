@@ -95,7 +95,7 @@ The following screenshots show the results of testing the Emotion Detector with 
 
 ### Test Case 4
 
-![Emotion Detection Test 4](oaqjp-final-project-emb-ai\final_project\testing_screenshots\Screenshot1.png)
+![Emotion Detection Test 4](final_project/testing_screenshots/Screenshot1.png)
 
 ### Test Case 5
 
